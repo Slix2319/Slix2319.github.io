@@ -1,0 +1,10 @@
+{
+  "name": "Calcolatrice TAX Board",
+  "short_name": "TAX Board",
+  "description": "Calcolatrice con lavagna operazioni, incorporo e scorporo TAX.",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#edf1ec",
+  "theme_color": "#008fbd",
+  "icons": []
+}
